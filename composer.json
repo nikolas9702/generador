@@ -1,0 +1,17 @@
+{
+    "name": "nico/generador",
+    "description": "generador de crud",
+    "authors": [
+        {
+            "name": "nicolas",
+            "email": "dilan.gonzalez.garcia@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+            "Generador\\" : "src/"
+        }
+    }
+}
